@@ -1,0 +1,14 @@
+/* Main App Container */
+.app {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Base Root styles override if any */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
